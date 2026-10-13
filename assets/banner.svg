@@ -616,8 +616,8 @@
   </g>
 
   <!-- Description paragraph -->
-  <text x="32" y="242" class="font-mono txt-white" font-size="12.8">Nitikasri can write, test and debug code right from your terminal. Describe a</text>
-  <text x="32" y="262" class="font-mono txt-white" font-size="12.8">task to get started or enter ? for help. Copilot uses AI, check for mistakes.</text>
+  <text x="32" y="242" class="font-mono txt-white" font-size="12.8">Building campus network automation, edge IoT safety systems, and robust Java architectures.</text>
+  <text x="32" y="262" class="font-mono txt-white" font-size="12.8">Third-year AI &amp; DS undergrad — coding while managing to stay alive by a thread.</text>
 
   <!-- Logged in as user line -->
   <circle cx="39" cy="293" r="4.5" fill="#54aeff" />
