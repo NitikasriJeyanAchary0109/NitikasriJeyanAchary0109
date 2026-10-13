@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0a0d12" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#388bfd" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#bc8cff" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Text Accent Gradients -->
+    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f0f6fc" />
+      <stop offset="50%" stop-color="#e6edf3" />
+      <stop offset="100%" stop-color="#c9d1d9" />
+    </linearGradient>
+
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bc8cff" />
+      <stop offset="50%" stop-color="#79c0ff" />
+      <stop offset="100%" stop-color="#56d364" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="glow-lavender" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#8957e5" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#8957e5" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-cyan" cx="15%" cy="85%" r="50%">
+      <stop offset="0%" stop-color="#388bfd" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#388bfd" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Drop Shadows -->
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#010409" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <style>
+    .font-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .title { font-weight: 800; letter-spacing: 2px; }
+    .badge-text { font-size: 11px; font-weight: 600; letter-spacing: 0.5px; }
+    .prompt-text { font-size: 13px; font-weight: 500; }
+  </style>
+
+  <!-- Main Canvas Card -->
+  <rect x="2" y="2" width="846" height="256" rx="16" fill="url(#bg-grad)" stroke="url(#border-grad)" stroke-width="1.5" filter="url(#card-shadow)" />
+
+  <!-- Ambient Glow Overlays -->
+  <rect x="2" y="2" width="846" height="256" rx="16" fill="url(#glow-lavender)" />
+  <rect x="2" y="2" width="846" height="256" rx="16" fill="url(#glow-cyan)" />
+
+  <!-- Window Header / Titlebar -->
+  <g transform="translate(24, 20)">
+    <!-- Traffic lights -->
+    <circle cx="6" cy="6" r="5" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5" />
+    <circle cx="22" cy="6" r="5" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5" />
+    <circle cx="38" cy="6" r="5" fill="#27c93f" stroke="#1aab29" stroke-width="0.5" />
+
+    <!-- Terminal Breadcrumb -->
+    <text x="64" y="10" fill="#8b949e" class="font-mono" font-size="12px">nitikasri@dev-box: ~/workspace (main) · [JVM 21 / Python 3.11]</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="24" y1="46" x2="826" y2="46" stroke="#30363d" stroke-width="1" stroke-opacity="0.7" />
+
+  <!-- Hero Name & Brand -->
+  <g transform="translate(36, 92)">
+    <text x="0" y="0" fill="url(#title-grad)" class="font-sans title" font-size="34px">NITIKASRI</text>
+    <rect x="188" y="-22" width="138" height="24" rx="12" fill="#238636" fill-opacity="0.18" stroke="#3fb950" stroke-opacity="0.4" stroke-width="1" />
+    <text x="257" y="-6" fill="#3fb950" class="font-mono badge-text" text-anchor="middle">B.TECH AI &amp; DS '27</text>
+  </g>
+
+  <!-- Core Subtitle -->
+  <g transform="translate(36, 122)">
+    <text x="0" y="0" fill="#c9d1d9" class="font-sans" font-size="15px" font-weight="500">
+      Building applied ML pipelines, edge IoT safety systems &amp; robust Java architectures.
+    </text>
+  </g>
+
+  <!-- Personality & Terminal Execution Line -->
+  <g transform="translate(36, 158)">
+    <!-- Code pill box -->
+    <rect x="0" y="0" width="778" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+
+    <!-- Prompt glyph -->
+    <text x="16" y="24" fill="#bc8cff" class="font-mono prompt-text" font-weight="700">&gt;</text>
+    <text x="32" y="24" fill="#79c0ff" class="font-mono prompt-text">nitikasri</text>
+    <text x="100" y="24" fill="#8b949e" class="font-mono prompt-text">.</text>
+    <text x="108" y="24" fill="#d2a8ff" class="font-mono prompt-text">run</text>
+    <text x="132" y="24" fill="#8b949e" class="font-mono prompt-text">()</text>
+    <text x="156" y="24" fill="#6e7681" class="font-mono prompt-text">// "coding while managing to stay alive by a thread."</text>
+    <text x="734" y="24" fill="#56d364" class="font-mono" font-size="11px">[0 ERRORS]</text>
+  </g>
+
+  <!-- Bottom Badges / Tech Highlights Bar -->
+  <g transform="translate(36, 224)">
+    <!-- Badge 1: Java -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="94" height="22" rx="6" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35" stroke-width="1" />
+      <text x="47" y="15" fill="#f0883e" class="font-mono badge-text" text-anchor="middle">☕ JAVA CORE</text>
+    </g>
+
+    <!-- Badge 2: Machine Learning -->
+    <g transform="translate(104, 0)">
+      <rect x="0" y="0" width="138" height="22" rx="6" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1" />
+      <text x="69" y="15" fill="#79c0ff" class="font-mono badge-text" text-anchor="middle">🧠 APPLIED AI &amp; ML</text>
+    </g>
+
+    <!-- Badge 3: Fast Systems -->
+    <g transform="translate(252, 0)">
+      <rect x="0" y="0" width="144" height="22" rx="6" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.35" stroke-width="1" />
+      <text x="72" y="15" fill="#d2a8ff" class="font-mono badge-text" text-anchor="middle">⚡ FASTAPI &amp; SPRING</text>
+    </g>
+
+    <!-- Badge 4: Edge IoT & CV -->
+    <g transform="translate(406, 0)">
+      <rect x="0" y="0" width="140" height="22" rx="6" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.35" stroke-width="1" />
+      <text x="70" y="15" fill="#56d364" class="font-mono badge-text" text-anchor="middle">🛡️ EDGE IOT &amp; CV</text>
+    </g>
+
+    <!-- Right side status indicator -->
+    <g transform="translate(620, 0)">
+      <circle cx="8" cy="11" r="4" fill="#3fb950">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="20" y="15" fill="#8b949e" class="font-mono badge-text">STATUS: EXPLORING</text>
+    </g>
+  </g>
+</svg>
