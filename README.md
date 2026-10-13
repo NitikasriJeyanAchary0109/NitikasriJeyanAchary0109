@@ -1,19 +1,15 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Nitikasri Banner" width="100%" />
+<img src="./assets/banner.svg" alt="Nitikasri Copilot CLI Banner" width="100%" />
 
-<br/>
+<br/><br/>
 
-```
-Building things, breaking things, learning why — while managing to stay alive by a thread.
-```
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#-software-engineering--systems)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-applied-ai--data-science)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#-software-engineering--systems)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#-software-engineering--systems)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#-software-engineering--systems)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#-software-engineering--systems)
+<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" /></a>
+<a href="#-applied-ai--data-science"><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /></a>
+<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /></a>
+<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
+<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
+<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /></a>
 
 </div>
 
@@ -85,64 +81,64 @@ My approach to machine learning prioritizes data integrity, rigorous validation,
   <tr>
     <td width="22%"><strong>Core Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=4479A1" alt="SQL" />
+      <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
     </td>
   </tr>
   <tr>
     <td><strong>AI & Machine Learning</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-161b22?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+      <img src="https://img.shields.io/badge/Computer_Vision-161b22?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
     </td>
   </tr>
   <tr>
     <td><strong>Backend & Systems</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
-      <img src="https://img.shields.io/badge/Netmiko-00599C?style=flat-square&logo=cisco&logoColor=white" alt="Netmiko" />
-      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Express.js-161b22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/REST_APIs-161b22?style=flat-square&logo=postman&logoColor=FF6C37" alt="REST" />
+      <img src="https://img.shields.io/badge/Netmiko-161b22?style=flat-square&logo=cisco&logoColor=00599C" alt="Netmiko" />
+      <img src="https://img.shields.io/badge/JWT_Auth-161b22?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     </td>
   </tr>
   <tr>
     <td><strong>Databases & Storage</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+      <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
     </td>
   </tr>
   <tr>
     <td><strong>Frontend & Visualization</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
+      <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Three.js-161b22?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/TailwindCSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+      <img src="https://img.shields.io/badge/Capacitor-161b22?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor" />
     </td>
   </tr>
   <tr>
     <td><strong>DevOps & Tooling</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-      <img src="https://img.shields.io/badge/Caddy_Proxy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/Docker_Compose-161b22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker Compose" />
+      <img src="https://img.shields.io/badge/Caddy_Proxy-161b22?style=flat-square&logo=caddy&logoColor=1F88C0" alt="Caddy" />
+      <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/Maven-161b22?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven" />
+      <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
     </td>
   </tr>
 </table>
@@ -224,8 +220,8 @@ A selection of real systems engineered to solve concrete problems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NitikasriJeyanAchary0109&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=bc8cff&text_color=c9d1d9" alt="GitHub Statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitikasriJeyanAchary0109&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=NitikasriJeyanAchary0109&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" alt="GitHub Statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitikasriJeyanAchary0109&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
 
 </div>
 
