@@ -1,16 +1,12 @@
 <div align="center">
-
-<img src="./assets/banner.svg" alt="Nitikasri Copilot CLI Banner" width="100%" />
-
-<br/><br/>
-
-<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" /></a>
-<a href="#-applied-ai--data-science"><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /></a>
-<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /></a>
-<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
-<a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /></a>
-
+  <img src="./assets/banner.svg" alt="Nitikasri Copilot CLI Banner" width="100%" /><br/>
+  <a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="28" alt="Java" /></a>
+  <a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="28" alt="Spring Boot" /></a>
+  <a href="#-applied-ai--data-science"><img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" height="28" alt="Python" /></a>
+  <a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688" height="28" alt="FastAPI" /></a>
+  <a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" height="28" alt="TypeScript" /></a>
+  <a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="28" alt="PostgreSQL" /></a>
+  <a href="#-software-engineering--systems"><img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" height="28" alt="Docker" /></a>
 </div>
 
 ---
