@@ -173,7 +173,7 @@ A selection of real systems engineered to solve concrete problems.
 
 ---
 
-#### 3. [SpareChange AI (ConsumerLiterarcyTrack)](https://github.com/NitikasriJeyanAchary0109/ConsumerLiterarcyTrack) — Micro-Savings & Local LLM Financial Advisor
+#### 3. [PennyPilot](https://github.com/NitikasriJeyanAchary0109/PennyPilot) — Micro-Savings & Local LLM Financial Advisor
 > *Automated micro-savings with privacy-first financial literacy explanations powered by an on-premise LLM.*
 
 - **Problem**: College students struggle to understand complex personal finance and build early savings habits without their transaction data being harvested.
